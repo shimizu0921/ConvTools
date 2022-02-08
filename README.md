@@ -1,11 +1,11 @@
 # ConvTools
 	java開発で使用するであろう便利ライブラリ
 
-・使い方
+# 使い方
 	１、jarファイルのパスを通す
 	２、初めにConvTool.init()関数を呼ぶ
 
-・開発者向け
+# 開発者向け
 	・コンパイルの仕方(Mac)
 		bash compile.bat
 
